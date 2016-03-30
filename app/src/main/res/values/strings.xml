@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BeaconEatsExer</string>
+    <string name="hello_world">Hallo Programmieren LernenHQ World!</string>
+    <string name="action_settings">Settings</string>
+    <string name="ble_not_supported">BLE wird nicht unterstützt.</string>
+    <string name="title_activity_device_controll">DeviceControllActivity</string>
+</resources>

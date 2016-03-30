@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- Hausfarben der Ostfalia -->
+    <color name="ostBlue">#003a79</color>
+    <color name="ostBlue80">#335B94</color>
+    <color name="ostBlue60">#6684AF</color>
+    <color name="ostBlue45">#8CA2C3</color>
+    <color name="ostBlue30">#B2C1D7</color>
+    <color name="ostBlue15">#D9E0EB</color>
+    <color name="ostBlue7">#EDF1F6</color>
+
+    <!-- Hausfarben vom Standort Wolfenbüttel -->
+    <color name="wfBlue">#009eeD</color>
+    <color name="wfBlue80">#00B0E6</color>
+    <color name="wfBlue60">#5EC5ED</color>
+    <color name="wfBlue45">#94D5F2</color>
+    <color name="wfBlue30">#BDE4F7</color>
+    <color name="wfBlue20S">#0087C1</color>
+    <color name="wfBlue60S">#00547A</color>
+
+    <!-- Hausfarben weiterer Standorte -->
+    <color name="szGreen">#71B942</color>
+    <color name="sudRed">#e2001a</color>
+    <color name="wobOrange">#ee7f00</color>
+</resources>
